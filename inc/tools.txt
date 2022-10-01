@@ -1,0 +1,41 @@
+Open Source
+
+https://airbyte.com/
+SLACK
+
+https://github.com/airbytehq/airbyte
+
+https://dagster.io/
+
+https://twitter.com/dagsterio
+
+https://github.com/dagster-io/dagster
+playlist - https://dagster.io/dagster-day
+SLACK
+
+Azure
+
+
+
+https://streamsets.com/ https://twitter.com/streamsets
+YT, LI
+
+
+PodCasts
+
+`
+
+
+Apache
+
+https://twitter.com/ApacheCon
+https://apachecon.com/
+YT - https://www.youtube.com/user/TheApacheFoundation
+
+
+Data Infrastructure
+https://aiven.io/
+
+https://twitter.com/aiven_io
+https://www.youtube.com/channel/UC4cZf5RyAD5EL0fQf5u8c1g
+https://github.com/aiven

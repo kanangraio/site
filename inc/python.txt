@@ -1,0 +1,15 @@
+python
+ipython
+Juypter Notebooks
+Juypter Lab
+pandas
+matplotlib
+seaborn
+plotly
+
+Mercury - https://mljar.com/mercury/ https://github.com/mljar/mercury
+pylustrator - https://pylustrator.readthedocs.io/en/latest/ https://github.com/rgerum/pylustrator
+https://www.python-graph-gallery.com/ - https://github.com/holtzy/The-Python-Graph-Gallery - https://twitter.com/R_Graph_Gallery
+
+
+

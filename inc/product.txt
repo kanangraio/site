@@ -1,0 +1,113 @@
+ksqldb https://developer.confluent.io/learn-kafka/apache-kafka/ksqldb/
+Kafka	https://kafka.apache.org/	Event Streaming Platform, pub/sub messaging broker
+Confluent	https://www.confluent.io/	Confluent Cloud,ksqldb,Confluent Platform
+
+Hadoop
+Storm
+Spark
+Flink	
+Pinot		Real-time column-orientated OLDP datastore	Java
+Druid	https://druid.apache.org/	OLAP database		Database,OLAP,Analytics
+ClickHouse
+Zookeeper
+Preseto
+Hive
+Kudu
+Parquet
+RabbitMQ
+Graphite
+HDFS
+Samza
+Startree	https://www.startree.ai/	Apache Pinot 
+MSK	https://aws.amazon.com/msk/	AWS managed Kafka
+Redshift
+Kinesis	https://aws.amazon.com/kinesis/	Data streaming
+AWS	https://aws.amazon.com	Amazon Web Services Cloud Provider
+S3	https://aws.amazon.com/s3/	AWS Cloud Storage
+ElasticSearch
+CI/CD
+Kubernetes	https://kubernetes.io/	K8s container management
+Helm
+PagerDuty
+Slack
+AWS Lake Formation	https://aws.amazon.com/lake-formation/
+EMR	https://aws.amazon.com/emr/	Elastic Spark/Hive/Presto 
+EKS
+Sagemaker
+AWS Lambda
+AWS CloudWatch
+RDS
+Quicksight
+Redshift
+AWS Glue
+
+
+
+
+Categories
+
+Data Pipeline
+Go
+Python
+Java
+Julia
+R
+SQL
+PQL 	Apache Pinots SQL-like query language
+RDBMS
+Docker
+CNCF		Cloud Native Compute Foundation
+Apache Software Foundation (ASF)	https://www.apache.org/	Open Source Foundation
+keptn
+PyTorch
+
+
+https://azure.microsoft.com/en-us/products/databricks/
+https://www.pendo.io/
+
+
+https://twitter.com/databricks
+https://twitter.com/PrometheusIO - From Metrics to Insights
+
+Conference https://promcon.io/
+
+# Influencers
+http://garymarcus.com/
+https://martin.kleppmann.com/
+https://www.linkedin.com/in/kirkdborne?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAN5amABNvxwNhChBWp6XqXktRsmEAUmhcg&lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BcdYdQgw7QHGwEpMwn62V9A%3D%3D&lici=1l3d6xgSRkiNTdibuSEh1w%3D%3D
+https://www.linkedin.com/in/jordanmorrow/
+https://www.youtube.com/c/SeattleDataGuy/
+
+# Book
+https://dataintensive.net/
+
+# Products
+https://www.tigergraph.com/
+
+
+# PodCasts
+https://www.lightsondata.com/lights-on-data-show/
+https://data-leadership-lessons.castos.com/
+https://www.thoughtworks.com/en-us/insights/podcasts
+https://www.alation.com/podcast/ - Data Radicals
+
+# Recommended Reading
+
+Books I own
+
+Effective Data StoryTelling
+Telling your data story
+Mindset
+Think Again
+Clean Architecture
+Clean Code
+Be Data Driven
+
+
+https://dataintensive.net/
+
+
+
+Excel
+https://squirrel365.io/:wq
+

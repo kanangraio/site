@@ -1,0 +1,60 @@
+    <!-- ====== Section Start ======-->
+<!--
+    <section id="goal" class="bg-[#f3f4fe] pt-20 pb-20 lg:pt-[120px] lg:pb-[120px]" >
+      <div class="container">
+        <div class="wow fadeInUp bg-white" data-wow-delay=".2s">
+          <div class="-mx-4 flex flex-wrap pt-5">
+            <div class="w-full px-4">
+              <div class="mb-12 flex flex-wrap justify-center lg:mb-0 w-full">
+              <p class="mb-8 text-body-color lg:mb-11">
+              Our goal for customers is very straightforward 
+              </p>
+              <div>
+              <div class="mb-12 flex flex-wrap justify-center lg:mb-0 w-full">
+                <h1 class="mb-3 text-4xl font-bold text-dark text-center">
+                Build Better Data Insights Faster
+                </h1>
+              </div>
+
+
+<div class="grid grid-cols-8 gap-4 m-8 pt-20">
+  <div class="col-span-1 text-4xl text-center font-bold text-dark m-8">Build</div>
+  <div class="col-span-7 m-8">
+                The adoption of a modern data architecture and the paradigm shift to Data as a Product (DaaP) can be overwhelming. Organizations may associate any new processes and technology with prior experiences of implementations for internally developed applications or 3rd party SaaS solutions. 
+Any great works requires sounds architecture practices
+  </div>
+</div>
+<div class="grid grid-cols-8 gap-4 m-8">
+  <div class="col-span-1 text-4xl text-center font-bold text-dark m-8">Better</div>
+  <div class="col-span-7 m-8">
+                A better and more successful profitable organization includes happier customers, more customers, paying customers, more happy paying customers, improved customer retention and product sentiment. Productive, happy, motivated, educated employees that are also invested in the success of their employer.
+  </div>
+</div>
+<div class="grid grid-cols-8 gap-4 m-8">
+  <div class="col-span-1 text-4xl text-center font-bold text-dark m-8">Data</div>
+  <div class="col-span-7 m-8">
+  Any great works requires sounds architecture practices 
+  </div>
+</div>
+<div class="grid grid-cols-8 gap-4 m-8">
+  <div class="col-span-1 text-4xl text-center font-bold text-dark m-8">Insights</div>
+  <div class="col-span-7 m-8">
+Data insights combine the underlying data with visuals and a human-driven narrative that can share rich knowledge to your business decision makers. Creating this valuable information from data can help make more informed and more timely decisions.
+                Insights fuel the actions of informed decisions to create business value.
+  </div>
+</div>
+
+<div class="grid grid-cols-8 gap-4 m-8">
+  <div class="col-span-1 text-4xl text-center font-bold text-dark m-8">Faster</div>
+  <div class="col-span-7 m-8">
+We work to cut thru the overhead of identifying and evaluating products. By selecting suitable matches using your existing cloud provider technologies and matching with employee skills we can produce straight-forward and light-weight POCs. By demostrating the potential of data insights to your organization using your taxonomy, and your existing data sources and data quality, a small library of operational, tactical and strategic data insights, you have taken the first important step to using data as a resource.
+  </div>
+</div>
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+-->
+    <!-- ====== Section End ====== -->
