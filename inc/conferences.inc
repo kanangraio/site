@@ -33,16 +33,19 @@
           <div class="w-full px-4 lg:w-7/12 xl:w-8/12">
             <div class="ud-contact-content-wrapper">
               <div class="ud-contact-title mb-12 lg:mb-[20px]">
+              <h2 class="text-3xl font-bold text-dark">
+              Upcoming Events
+              </h3>
               </div>
               <div class="mb-12 flex flex-wrap justify-between lg:mb-0">
-<table class="table-auto border-separate border-spacing-2 border border-slate-500">
+<table class="table-auto">
 <tr>
-<th>Focus</th>
-<th>Website</th>
-<th>When</th>
-<th>Virtual</th>
-<th>In-person</th>
-<th>Cost</th>
+<th class="m-8">Focus</th>
+<th class="m-8">Website</th>
+<th class="m-8">When</th>
+<th class="m-8">Virtual</th>
+<th class="m-8">In-person</th>
+<th class="m-8">Cost</th>
 </th>
 <tr>
 <td>Data Catalog </td>
@@ -55,10 +58,10 @@
 <tr>
 <td>Open Source</td>
 <td><a href="https://apachecon.com/">Apache Foundation Conference</a></td>
-<td>Oct 3 - Oct 6 2022</td>
+<td>Oct 3-6 2022</td>
+<td>N</td>
 <td>Y</td>
-<td>Y</td>
-<td>Free and $$$</td>
+<td>$$$</td>
 </tr>
 <tr>
 <td>Event Streaming</td>
@@ -67,6 +70,30 @@
 <td>Y</td>
 <td>Y</td>
 <td>Free and $$$</td>
+</tr>
+<tr>
+<td>Big Data</td>
+<td><a href="https://www.ai-expo.net/northamerica/">AI & Big Data Expo</a></td>
+<td>Oct 5-6 2022</td>
+<td>Y</td>
+<td>Y</td>
+<td>Free and $$$</td>
+</tr>
+<tr>
+<td>Cloud Provider</td>
+<td><a href="https://cloud.withgoogle.com/next">Google Cloud Next</a></td>
+<td>Oct 11-13 2022</td>
+<td>Y</td>
+<td>N</td>
+<td>Free</td>
+</tr>
+<tr>
+<td>Data Metrics</td>
+<td><a href="https://www.airmeet.com/e/e4530d00-3131-11ed-981a-6f5a72ac6927?preview=true">SaaS Metrics Palooza</a></td>
+<td>Oct 11-12 2022</td>
+<td>Y</td>
+<td>N</td>
+<td>Free</td>
 </tr>
 <tr>
 <td>Cloud Provider</td>
@@ -85,12 +112,36 @@
 <td>Free and $$$</td>
 </tr>
 <tr>
+<td>Analytics</td>
+<td><a href="https://eanalyticsonline.com/">Enterprise Analytics</a></td>
+<td>Oct 19 2022</td>
+<td>Y</td>
+<td>N</td>
+<td>Free</td>
+</tr>
+<tr>
+<td>Data Security</td>
+<td><a href="https://www.f5.com/company/events/webinars/f5-cybersecurity-summit">F5 Cybersecurity Summit</a></td>
+<td>Oct 20 2022</td>
+<td>Y</td>
+<td>N</td>
+<td>Free</td>
+</tr>
+<tr>
 <td>Data Observability</td>
 <td><a href="https://impactdatasummit.com/2022">Monte Carlo Impact</a></td>
 <td>Oct 25-26 2022</td>
 <td>Y</td>
 <td>Y</td>
 <td>Free and $$$</td>
+</tr>
+<tr>
+<td>Data Pipelines</td>
+<td><a href="https://apiworld.co/free-open-pass/">API World 2022 - In Person</a></td>
+<td>Oct 25-27 2022</td>
+<td>N</td>
+<td>Y</td>
+<td>$$$</td>
 </tr>
 <tr>
 <td>Data Intelligence</td>
@@ -101,12 +152,36 @@
 <td>$$$</td>
 </tr>
 <tr>
+<td>Data Analytics</td>
+<td><a href="https://www.influxdays.com/">InfluxDays</a></td>
+<td>Nov 2-3 2022</td>
+<td>Y</td>
+<td>N</td>
+<td>Free</td>
+</tr>
+<tr>
+<td>Data Pipelines</td>
+<td><a href="https://apiworld.co/free-open-pass/">API World 2022 - Virtual</a></td>
+<td>Nov 2-3 2022</td>
+<td>Y</td>
+<td>N</td>
+<td>Free</td>
+</tr>
+<tr>
 <td>Cloud Provider</td>
 <td><a href="https://reinvent.awsevents.com/">AWS re:Invent</a></td>
 <td>Nov 28 - Dec 2 2022</td>
 <td>Y</td>
 <td>Y</td>
 <td>Free and $$$</td>
+</tr>
+<tr>
+<td>Open Source</td>
+<td><a href="https://fosdem.org/2023/news/2022-09-14-fosdem-2023-dates/">FOSDEM</a></td>
+<td>Feb 4-5 2023</td>
+<td>N</td>
+<td>Y</td>
+<td>?</td>
 </tr>
 <tr>
 <td>Data and Analytics</td>

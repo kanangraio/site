@@ -45,6 +45,9 @@
                   <a href="products.html" class="mb-2 inline-block text-base leading-loose text-[#f3f4fe] hover:text-white hover:opacity-70" > Products </a>
                 </li>
                 <li>
+                  <a href="podcasts.html" class="mb-2 inline-block text-base leading-loose text-[#f3f4fe] hover:text-white hover:opacity-70" > Podcasts </a>
+                </li>
+                <li>
                   <a href="conferences.html" class="mb-2 inline-block text-base leading-loose text-[#f3f4fe] hover:text-white hover:opacity-70" > Conferences & Summits </a>
                 </li>
                 <li> 
@@ -74,13 +77,19 @@
                 <li>
                   <a href="https://jupyter.org/" rel="nofollow noopner" target="_blank"
                     class="mb-6 mr-5 block max-w-[60px] xl:max-w-[60px] 2xl:max-w-[60px]" >
-                    <img src="assets/images/brands/jupyter.svg" alt="Jupyter" />
+                    <img src="assets/images/brands/jupyter.svg" alt="Jupyter Notebooks" />
                   </a>
                 </li>
                 <li>
                   <a href="https://getdbt.com" rel="nofollow noopner" target="_blank"
                     class="mb-6 mr-5 block max-w-[120px] xl:max-w-[100px] 2xl:max-w-[120px]" >
                     <img src="assets/images/brands/dbt.svg" alt="dbt" />
+                  </a>
+                </li>
+                <li>
+                  <a href="https://dagster.io" rel="nofollow noopner" target="_blank"
+                    class="mb-6 mr-5 block max-w-[120px] xl:max-w-[100px] 2xl:max-w-[120px]" >
+                    <img src="assets/images/brands/dagster.svg" alt="Dagster - Data Pipelines" />
                   </a>
                 </li>
                 <li>

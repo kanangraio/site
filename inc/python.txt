@@ -2,7 +2,7 @@ python
 ipython
 Juypter Notebooks
 Juypter Lab
-pandas
+pandas https://pandas.pydata.org/docs/index.html
 matplotlib
 seaborn
 plotly

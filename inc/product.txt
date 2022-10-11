@@ -3,25 +3,14 @@ Kafka	https://kafka.apache.org/	Event Streaming Platform, pub/sub messaging brok
 Confluent	https://www.confluent.io/	Confluent Cloud,ksqldb,Confluent Platform
 
 Hadoop
-Storm
-Spark
-Flink	
-Pinot		Real-time column-orientated OLDP datastore	Java
-Druid	https://druid.apache.org/	OLAP database		Database,OLAP,Analytics
-ClickHouse
-Zookeeper
-Preseto
 Hive
 Kudu
 Parquet
 RabbitMQ
 Graphite
 HDFS
-Samza
-Startree	https://www.startree.ai/	Apache Pinot 
 MSK	https://aws.amazon.com/msk/	AWS managed Kafka
 Redshift
-Kinesis	https://aws.amazon.com/kinesis/	Data streaming
 AWS	https://aws.amazon.com	Amazon Web Services Cloud Provider
 S3	https://aws.amazon.com/s3/	AWS Cloud Storage
 ElasticSearch
@@ -90,6 +79,8 @@ https://www.lightsondata.com/lights-on-data-show/
 https://data-leadership-lessons.castos.com/
 https://www.thoughtworks.com/en-us/insights/podcasts
 https://www.alation.com/podcast/ - Data Radicals
+https://pod.link/streaming-audio
+https://lifeaftergdpr.eu/ - https://twitter.com/LifeAfterGDPR
 
 # Recommended Reading
 
@@ -110,4 +101,11 @@ https://dataintensive.net/
 
 Excel
 https://squirrel365.io/:wq
+
+
+Cloud Application Hosting / Cloud Platform Service
+
+https://render.com/
+https://www.heroku.com/
+https://vercel.com/
 
